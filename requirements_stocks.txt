@@ -1,7 +1,5 @@
-streamlit 
+streamlit
 pandas
-yfinance
 numpy
-plotly.express
-scikit-learn
-stocknews
+yfinance
+plotly
