@@ -1,6 +1,6 @@
 streamlit 
 pandas
-yahoofinance
+yfinance
 numpy
 plotly.express
 scikit-learn
